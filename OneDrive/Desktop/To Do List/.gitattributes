@@ -1,0 +1,2 @@
+# Force all files deep inside the frontend folder to be treated as Java
+frontend/**/* linguist-language=Java
